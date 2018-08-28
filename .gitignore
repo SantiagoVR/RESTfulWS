@@ -1,0 +1,35 @@
+#Ignorar los archivos #
+# Java #
+*.class
+*.swp
+
+# Ejecutables #
+*.jar
+*.war
+*.ear
+
+# Eclipse IDE #
+.project
+.externalToolBuilders/
+*.launch
+.classpath
+.factorypath
+.target
+.springBeans
+.recommenders/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Logs de errores de VM #
+hs_err_pid*
+
+# BlueJ files
+*.ctxt
