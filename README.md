@@ -1,7 +1,7 @@
 # RESTfulWS
 Aplicación web de Java Enterprise Edition con Spring Framework MVC para crear RESTful Web Services basado en patrones de diseño corporativos y modelos para asegurar la escalabilidad y usabilidad de los Web Services.
 
-1. Instalación
+**1. Instalación**
   
 **Clonar el repositorio** 
 
@@ -33,7 +33,7 @@ Aplicación web de Java Enterprise Edition con Spring Framework MVC para crear R
    7. Revisar el proyecto en la sección **Aplicaciones** y buscar el nombre del archivo WAR.
    8. Observar el funcionamiento del proyecto.
 
-2. Uso
+**2. Uso**
   
   **Index**
   
@@ -86,8 +86,8 @@ Aplicación web de Java Enterprise Edition con Spring Framework MVC para crear R
         ```
    3. **DELETE**: Elimina al usuario.
 
-3. Créditos
-  Desarrollado por: Emmanuel Santiago Vilchis Reyes
-  Matricula:  2742546
+**3. Créditos**
+ Desarrollado por: Emmanuel Santiago Vilchis Reyes
+ Matricula:  2742546
   
-4. Licencia 
+**4. Licencia** 
