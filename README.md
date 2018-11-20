@@ -82,7 +82,7 @@ Aplicación web de Java Enterprise Edition con Spring Framework MVC para crear R
    1. **GET**: Muestra la información del usuario.
    2. **PUT**: Actualiza la información del usuario con username, password y fullName.
         ```
-        api/v1/user/user username="user" password="pass" fullName="John Doe"
+        api/v1/user/user username="user" password="pass" fullName="Emmanuel"
         ```
    3. **DELETE**: Elimina al usuario.
 
